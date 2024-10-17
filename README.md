@@ -4,7 +4,7 @@
 
 <pre>wsl --install</pre>
 
-<p>You must create .wslconfig file inside of C:/Users/<WINDOWS_USERNAME></p>
+<p>You must create .wslconfig file inside of C:/Users/WINDOWS_USERNAME</p>
 
 <pre>
 [wsl2]
