@@ -26,7 +26,7 @@ kvm-ok
 cat /sys/module/kvm_intel/parameters/nested (Y)
 </pre>
 
-<p>After that, you have to install macOS packages and run macOS Installation</p>
+<p>After that, you need to install macOS packages and run macOS Installation</p>
 
 <pre>
 ./windows-install.sh
