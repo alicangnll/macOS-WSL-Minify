@@ -35,7 +35,7 @@ Virtualization -> Intel or AMD
 ./start_installation_basic.sh or ./start_installation_virtio.sh
 </pre>
 
-<p> When you installed macOS on your disk, you need boot macOS </p>
+<p> Once you have installed macOS on your disk, you need to start macOS </p>
 
 <pre> boot_basic.sh or boot_vnc.sh </pre>
 
