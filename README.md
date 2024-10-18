@@ -44,3 +44,6 @@ Virtualization -> Intel or AMD
   netsh interface portproxy add v4tov4 listenport=[PORT] listenaddress=0.0.0.0 connectport=[PORT] connectaddress=[WSL_IP] 
   Example : netsh interface portproxy add v4tov4 listenport=5900 listenaddress=0.0.0.0 connectport=5900 connectaddress=172.24.155.114
 </pre>
+
+## Docs
+https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/docs/start-here/
