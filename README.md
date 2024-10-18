@@ -45,5 +45,8 @@ Virtualization -> Intel or AMD
   Example : netsh interface portproxy add v4tov4 listenport=5900 listenaddress=0.0.0.0 connectport=5900 connectaddress=172.24.155.114
 </pre>
 
+## macOS Optimizer
+https://github.com/sickcodes/osx-optimizer
+
 ## Docs
 https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/docs/start-here/
