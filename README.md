@@ -38,7 +38,7 @@ cat /sys/module/kvm_intel/parameters/nested (Y)
 
 <pre>
 ./windows-install.sh
-Virtualization -> Intel or AMD
+Virtualization -> Intel or AMD -> Save
 ./setup.sh
 ./start_installation_basic.sh or ./start_installation_virtio.sh
 </pre>
