@@ -58,3 +58,5 @@ https://github.com/sickcodes/osx-optimizer
 
 ## Docs
 https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/docs/start-here/
+
+This project powered by <a href="https://github.com/notAperson535/OneClick-macOS-Simple-KVM">OneClick-macOS-Simple-KVM</a>
