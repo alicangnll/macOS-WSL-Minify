@@ -56,6 +56,9 @@ Virtualization -> Intel or AMD -> Save
 ## macOS Optimizer
 https://github.com/sickcodes/osx-optimizer
 
+## XCode Installer
+https://developer.apple.com/download/all/?q=xcode
+
 ## Docs
 https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/docs/start-here/
 
