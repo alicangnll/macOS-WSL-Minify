@@ -1,5 +1,13 @@
-# macOS-WSL-KVM
+# macOS Virtualization on WSL
 
+## Requirements
+<ul>
+  <li>100 GB+ storage</li>
+  <li>At least 8 GB RAM</li>
+  <li>Virtualization support</li>
+</ul>
+
+## Installation
 <p>First of all, you have to install WSL.</p>
 
 <pre>wsl --install</pre>
