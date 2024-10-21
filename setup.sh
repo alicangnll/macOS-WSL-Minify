@@ -10,6 +10,8 @@ sudo modprobe kvm
 
 kvm-ok
 
+echo "Gelecek verinin yanıtı Y olmalıdır"
+
 cat /sys/module/kvm_intel/parameters/nested
 
 sudo apt-get install qemu-system qemu-utils python3 python3-pip -y  # for Ubuntu, Debian, Mint, and PopOS.

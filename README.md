@@ -37,8 +37,9 @@ cat /sys/module/kvm_intel/parameters/nested (Y)
 <p>After that, you need to install macOS packages and run macOS Installation</p>
 
 <pre>
-./setup.sh
+./windows-install.sh
 Virtualization -> Intel or AMD -> Save
+./setup.sh
 ./start_installation_basic.sh or ./start_installation_virtio.sh
 </pre>
 
